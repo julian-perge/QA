@@ -2,19 +2,16 @@
 
 Submit completed tests and debug.log files to:  [Gavin Andresen](mailto:gavin@bitcoinfoundation.org)
 
-Version tested:
-{0.x.y release candidate N, or git commit}
-
 Test environment:
-  Operating system:
-  Upgrading from:
-  
+
+(edit this to describe the machine you're testing on; e.g. Windows 7, running Bitcoin-Qt version 0.7.2)
+
 ## Bounties:
 
-0.5 BTC : Test starting from version 0.7.2
-0.5 BTC : Test starting from version 0.3.24
-0.5 BTC : Test on Windows XP, NTFS filesystem
-0.5 BTC : Test on Windows (any version), FAT32 filesystem 
+- 0.5 BTC : Test starting from version 0.7.2
+- 0.5 BTC : Test starting from version 0.3.24
+- 0.5 BTC : Test on Windows XP, NTFS filesystem
+- 0.5 BTC : Test on Windows (any version), FAT32 filesystem 
 
 Bounties will go to the first people who follow the instructions in TestPlanExecution.md and this test plan and
 submit test results and timestamped debug.log files.
