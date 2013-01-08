@@ -3,7 +3,7 @@ Running Test Plans
 
 Prerequisites: you must have a github account; we're using github to store test results, and to keep track of issues.
 
-Configure bitcoind/Bitcoin-Qt to log timestamps in its debug.log file (see the sample.bitcoin.conf here; put it
+Configure bitcoind/Bitcoin-Qt to log timestamps in its debug.log file (see the [sample.bitcoin.conf](https://github.com/bitcoin/QA/blob/master/sample.bitcoin.conf); put it
 in the [data directory](https://en.bitcoin.it/wiki/Data_directory)).
 
 What should you test?
