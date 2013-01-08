@@ -18,10 +18,9 @@ plans will be copied into new gists.
 Creating a new plan
 --
 
-1. Fork this repository (poke the Fork button at the top of the page)
-2. Create a new file to contain the new test plan (poke the + icon next to
- your fork's name in the middle of the page to add a new file right from github).
- Try to choose a good filename.
+1. Fork this repository ![github fork](http://dl.dropbox.com/u/38065353/Github_ForkButton.jpg)
+2. Create a new file to contain the new test plan.
+ Try to choose a good filename. ![github add](http://dl.dropbox.com/u/38065353/Github_AddButton.jpg)
 3. Create the test plan; copy/paste the TestPlanSkeleton.md template to start.
 
 Testing
