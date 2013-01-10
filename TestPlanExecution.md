@@ -24,7 +24,6 @@ Upgrading went fine. No errors thrown.
 
 Had to get about 20k blocks because 0.3.24 wouldn't open again, even though there was a process running.
 
-http://www.mediafire.com/?e2gzlx7dsf8j8va 0.3.24 upgrade log
 
 Downgrading from 0.8.0 to 0.3.24
 ==
